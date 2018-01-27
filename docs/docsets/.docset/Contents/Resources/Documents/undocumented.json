@@ -1,0 +1,2371 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 12,
+      "symbol": "APIBASE.requester",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 13,
+      "symbol": "APIBASE.ip",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 14,
+      "symbol": "APIBASE.loginEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 15,
+      "symbol": "APIBASE.occupationEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 16,
+      "symbol": "APIBASE.registerEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 17,
+      "symbol": "APIBASE.createCheckinEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 18,
+      "symbol": "APIBASE.getCurrentCheckinEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 19,
+      "symbol": "APIBASE.editCurrentCheckinEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 20,
+      "symbol": "APIBASE.getMatchesEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 21,
+      "symbol": "APIBASE.getProfilePictureEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 22,
+      "symbol": "APIBASE.uploadProfilePictureEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 23,
+      "symbol": "APIBASE.getUserProfileEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 24,
+      "symbol": "APIBASE.editProfileEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 25,
+      "symbol": "APIBASE.getRegisterDeviceTokenEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 26,
+      "symbol": "APIBASE.getUnRegisterDeviceTokenEndpoint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APIBASE.swift",
+      "line": 28,
+      "symbol": "APIBASE.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APISocket.swift",
+      "line": 14,
+      "symbol": "APISocket.manager",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APISocket.swift",
+      "line": 15,
+      "symbol": "APISocket.shared",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APISocket.swift",
+      "line": 16,
+      "symbol": "APISocket.socket",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/APISocket.swift",
+      "line": 17,
+      "symbol": "APISocket.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/RequestMaster.swift",
+      "line": 14,
+      "symbol": "RequestType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/RequestMaster.swift",
+      "line": 15,
+      "symbol": "RequestType.GET",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/RequestMaster.swift",
+      "line": 16,
+      "symbol": "RequestType.POST",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/RequestMaster.swift",
+      "line": 17,
+      "symbol": "RequestType.PUT",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/RequestMaster.swift",
+      "line": 18,
+      "symbol": "RequestType.DELETE",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/RequestMaster.swift",
+      "line": 19,
+      "symbol": "RequestType.MultipartPOST",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/RequestMaster.swift",
+      "line": 24,
+      "symbol": "RequestMaster.boundary",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/RequestMaster.swift",
+      "line": 25,
+      "symbol": "RequestMaster.request",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/RequestMaster.swift",
+      "line": 26,
+      "symbol": "RequestMaster.authHeader",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/RequestMaster.swift",
+      "line": 28,
+      "symbol": "RequestMaster.init(url:type:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/API/RequestMaster.swift",
+      "line": 33,
+      "symbol": "RequestMaster.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/Extensions.swift",
+      "line": 14,
+      "symbol": "UIView.shake()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/Extensions.swift",
+      "line": 27,
+      "symbol": "UIViewController.displayAlert(title:message:buttonTitle:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/Extensions.swift",
+      "line": 34,
+      "symbol": "UIViewController.displayLoadingAlert()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/Extensions.swift",
+      "line": 46,
+      "symbol": "UIViewController.disAppearLoadingAlert(completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/Extensions.swift",
+      "line": 54,
+      "symbol": "UIViewController.showStatusBarNotification(title:type:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/Extensions.swift",
+      "line": 65,
+      "symbol": "UIApplication.topViewController(base:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/Extensions.swift",
+      "line": 83,
+      "symbol": "UITextView.setBorder()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/Extensions.swift",
+      "line": 88,
+      "symbol": "UITextView.setPlaceHolder()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/Extensions.swift",
+      "line": 95,
+      "symbol": "Data.append(string:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/Extensions.swift",
+      "line": 105,
+      "symbol": "UIColor.init(r:g:b:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/Extensions.swift",
+      "line": 111,
+      "symbol": "UIImageView.downloadImage(id:cache:tv:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/Extensions.swift",
+      "line": 130,
+      "symbol": "UIImageView.downloadImageCV(id:cache:cv:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/JsonFetcher.swift",
+      "line": 11,
+      "symbol": "JsonFetcher",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/JsonFetcher.swift",
+      "line": 12,
+      "symbol": "JsonFetcher.fetchJSON(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/TimeAgo.swift",
+      "line": 10,
+      "symbol": "TimeAgo",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Helpers/TimeAgo.swift",
+      "line": 11,
+      "symbol": "TimeAgo.timeAgoSinceDate(date:numericDates:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": null,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": null,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 18,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 20,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 21,
+      "symbol": "AppDelegate.locationManager",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 22,
+      "symbol": "AppDelegate.deviceToken",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 23,
+      "symbol": "AppDelegate.api",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 24,
+      "symbol": "AppDelegate.center",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 27,
+      "symbol": "AppDelegate.urlSession",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 33,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 57,
+      "symbol": "AppDelegate.handleEvent(forRegion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 74,
+      "symbol": "AppDelegate.userNotificationCenter(_:willPresent:withCompletionHandler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 87,
+      "symbol": "AppDelegate.backgroundURLRequest(url:body:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 96,
+      "symbol": "AppDelegate.locationManager(_:didExitRegion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 103,
+      "symbol": "AppDelegate.locationManager(_:didEnterRegion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 110,
+      "symbol": "AppDelegate.application(_:didRegisterForRemoteNotificationsWithDeviceToken:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 118,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/AppDelegate.swift",
+      "line": 124,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 11,
+      "symbol": "InterestedViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 12,
+      "symbol": "InterestedViewController.api",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 13,
+      "symbol": "InterestedViewController.occupations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 14,
+      "symbol": "InterestedViewController.filteredOccupations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 15,
+      "symbol": "InterestedViewController.searchController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 16,
+      "symbol": "InterestedViewController.selectedItems",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 17,
+      "symbol": "InterestedViewController.doneButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 19,
+      "symbol": "InterestedViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 38,
+      "symbol": "InterestedViewController.updateSearchResults(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 47,
+      "symbol": "InterestedViewController.isFiltering()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 51,
+      "symbol": "InterestedViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 69,
+      "symbol": "InterestedViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 76,
+      "symbol": "InterestedViewController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 81,
+      "symbol": "InterestedViewController.searchBarIsEmpty()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 86,
+      "symbol": "InterestedViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 96,
+      "symbol": "InterestedViewController.tableView(_:didDeselectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 108,
+      "symbol": "InterestedViewController.initializeSearchController()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 120,
+      "symbol": "InterestedViewController.getRegisterVC()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/InterestedViewController.swift",
+      "line": 133,
+      "symbol": "InterestedViewController.doneTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/LoginViewController.swift",
+      "line": 10,
+      "symbol": "LoginViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/LoginViewController.swift",
+      "line": 12,
+      "symbol": "LoginViewController.emailTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/LoginViewController.swift",
+      "line": 13,
+      "symbol": "LoginViewController.passwordTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/LoginViewController.swift",
+      "line": 14,
+      "symbol": "LoginViewController.httpAuth",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/LoginViewController.swift",
+      "line": 15,
+      "symbol": "LoginViewController.deviceAPI",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/LoginViewController.swift",
+      "line": 16,
+      "symbol": "LoginViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/LoginViewController.swift",
+      "line": 25,
+      "symbol": "LoginViewController.loginTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 11,
+      "symbol": "RegisterViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 12,
+      "symbol": "RegisterViewController.aboutTextArea",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 13,
+      "symbol": "RegisterViewController.emailTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 14,
+      "symbol": "RegisterViewController.passwordTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 15,
+      "symbol": "RegisterViewController.rePasswordTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 16,
+      "symbol": "RegisterViewController.enterYourAreasButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 17,
+      "symbol": "RegisterViewController.nameTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 18,
+      "symbol": "RegisterViewController.surnameTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 20,
+      "symbol": "RegisterViewController.occupations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 21,
+      "symbol": "RegisterViewController.api",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 22,
+      "symbol": "RegisterViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 36,
+      "symbol": "RegisterViewController.textView(_:shouldChangeTextIn:replacementText:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 44,
+      "symbol": "RegisterViewController.textField(_:shouldChangeCharactersIn:replacementString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 52,
+      "symbol": "RegisterViewController.textFieldShouldReturn(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 57,
+      "symbol": "RegisterViewController.enterYourAreasTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 61,
+      "symbol": "RegisterViewController.textViewDidBeginEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 68,
+      "symbol": "RegisterViewController.textViewDidEndEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/\u0010Auth/RegisterViewController.swift",
+      "line": 75,
+      "symbol": "RegisterViewController.registerTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatCollectionViewCell.swift",
+      "line": 11,
+      "symbol": "ChatCollectionViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatCollectionViewCell.swift",
+      "line": 12,
+      "symbol": "ChatCollectionViewCell.txtLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatCollectionViewCell.swift",
+      "line": 22,
+      "symbol": "ChatCollectionViewCell.bubleView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatCollectionViewCell.swift",
+      "line": 29,
+      "symbol": "ChatCollectionViewCell.image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatCollectionViewCell.swift",
+      "line": 41,
+      "symbol": "ChatCollectionViewCell.nameLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatCollectionViewCell.swift",
+      "line": 49,
+      "symbol": "ChatCollectionViewCell.dateLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatCollectionViewCell.swift",
+      "line": 58,
+      "symbol": "ChatCollectionViewCell.isHeightCalculated",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatCollectionViewCell.swift",
+      "line": 62,
+      "symbol": "ChatCollectionViewCell.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatCollectionViewCell.swift",
+      "line": 103,
+      "symbol": "ChatCollectionViewCell.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 14,
+      "symbol": "ChatViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 15,
+      "symbol": "ChatViewController.collectionView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 16,
+      "symbol": "ChatViewController.bottomConstraint",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 17,
+      "symbol": "ChatViewController.user",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 18,
+      "symbol": "ChatViewController.needToScroll",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 19,
+      "symbol": "ChatViewController.titleBtn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 20,
+      "symbol": "ChatViewController.messages",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 21,
+      "symbol": "ChatViewController.imageCache",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 22,
+      "symbol": "ChatViewController.sendButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 23,
+      "symbol": "ChatViewController.keyboard",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 24,
+      "symbol": "ChatViewController.isFirstLoading",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 26,
+      "symbol": "ChatViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 70,
+      "symbol": "ChatViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 76,
+      "symbol": "ChatViewController.inputTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 84,
+      "symbol": "ChatViewController.viewDidDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 89,
+      "symbol": "ChatViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 94,
+      "symbol": "ChatViewController.showProfile(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 98,
+      "symbol": "ChatViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 104,
+      "symbol": "ChatViewController.canBecomeFirstResponder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 108,
+      "symbol": "ChatViewController.viewWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 114,
+      "symbol": "ChatViewController.inputContainerView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 151,
+      "symbol": "ChatViewController.sendMessageButtonTapped()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 156,
+      "symbol": "ChatViewController.inputAccessoryView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 165,
+      "symbol": "ChatViewController.viewWillTransition(to:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 169,
+      "symbol": "ChatViewController.collectionView(_:cellForItemAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 179,
+      "symbol": "ChatViewController.collectionView(_:numberOfItemsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 185,
+      "symbol": "ChatViewController.bindSocket()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/ChatViewController.swift",
+      "line": 219,
+      "symbol": "ChatViewController.tappedMe(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/SampleData.swift",
+      "line": 11,
+      "symbol": "sampleDate",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Chat/SampleData.swift",
+      "line": 12,
+      "symbol": "sampleDate.texts",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": null,
+      "symbol": "CheckinPopUpViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 12,
+      "symbol": "CheckinDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 13,
+      "symbol": "CheckinDelegate.loadCurrentCheckin()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 14,
+      "symbol": "CheckinDelegate.failedLoad(error:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 18,
+      "symbol": "CheckinPopUpViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 19,
+      "symbol": "CheckinPopUpViewController.subView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 20,
+      "symbol": "CheckinPopUpViewController.mainView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 21,
+      "symbol": "CheckinPopUpViewController.rangeSlider",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 22,
+      "symbol": "CheckinPopUpViewController.metersLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 23,
+      "symbol": "CheckinPopUpViewController.checkinginLocation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 24,
+      "symbol": "CheckinPopUpViewController.currentCheckin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 25,
+      "symbol": "CheckinPopUpViewController.api",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 26,
+      "symbol": "CheckinPopUpViewController.isUserEditing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 28,
+      "symbol": "CheckinPopUpViewController.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 30,
+      "symbol": "CheckinPopUpViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 34,
+      "symbol": "CheckinPopUpViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 38,
+      "symbol": "CheckinPopUpViewController.handleTapFrom(sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 43,
+      "symbol": "CheckinPopUpViewController.sliderValueChanged(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 47,
+      "symbol": "CheckinPopUpViewController.gestureRecognizer(_:shouldReceive:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 51,
+      "symbol": "CheckinPopUpViewController.doneTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 89,
+      "symbol": "CheckinPopUpViewController.getNearbyLocation(location:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinPopUpViewController.swift",
+      "line": 108,
+      "symbol": "CheckinPopUpViewController.prepareGestureRecognizer()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": null,
+      "symbol": "CheckinViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": null,
+      "symbol": "CheckinViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": null,
+      "symbol": "CheckinViewController",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 13,
+      "symbol": "CheckinViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 15,
+      "symbol": "CheckinViewController.mapView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 16,
+      "symbol": "CheckinViewController.locationManager",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 17,
+      "symbol": "CheckinViewController.location",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 18,
+      "symbol": "CheckinViewController.api",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 19,
+      "symbol": "CheckinViewController.apim",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 20,
+      "symbol": "CheckinViewController.current",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 21,
+      "symbol": "CheckinViewController.locationUsageBanner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 22,
+      "symbol": "CheckinViewController.isDisplayingUsageBanner",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 24,
+      "symbol": "CheckinViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 33,
+      "symbol": "CheckinViewController.viewDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 40,
+      "symbol": "CheckinViewController.searchTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 47,
+      "symbol": "CheckinViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 60,
+      "symbol": "CheckinViewController.loadCurrentCheckin()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/CheckinViewController.swift",
+      "line": 64,
+      "symbol": "CheckinViewController.failedLoad(error:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinErrors.swift",
+      "line": 12,
+      "symbol": "CheckinViewController.shouldPerformSegue(withIdentifier:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinErrors.swift",
+      "line": 16,
+      "symbol": "CheckinViewController.locationManager(_:monitoringDidFailFor:withError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinErrors.swift",
+      "line": 20,
+      "symbol": "CheckinViewController.locationManager(_:didFailWithError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinExtensions.swift",
+      "line": 15,
+      "symbol": "CheckinViewController.locationManager(_:didUpdateLocations:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinExtensions.swift",
+      "line": 26,
+      "symbol": "CheckinViewController.startTracking()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinExtensions.swift",
+      "line": 38,
+      "symbol": "CheckinViewController.isLocationAvailable()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinExtensions.swift",
+      "line": 47,
+      "symbol": "CheckinViewController.locationManager(_:didDetermineState:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinExtensions.swift",
+      "line": 65,
+      "symbol": "CheckinViewController.getCurrent()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinExtensions.swift",
+      "line": 104,
+      "symbol": "CheckinViewController.notificationBannerWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinExtensions.swift",
+      "line": 108,
+      "symbol": "CheckinViewController.notificationBannerDidAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinExtensions.swift",
+      "line": 113,
+      "symbol": "CheckinViewController.notificationBannerWillDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinExtensions.swift",
+      "line": 118,
+      "symbol": "CheckinViewController.notificationBannerDidDisappear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinExtensions.swift",
+      "line": 123,
+      "symbol": "CheckinViewController.region(checkin:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinExtensions.swift",
+      "line": 130,
+      "symbol": "CheckinViewController.requestRegionState(checkin:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinExtensions.swift",
+      "line": 135,
+      "symbol": "CheckinViewController.startMonitoring(checkin:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/CheckinExtensions.swift",
+      "line": 140,
+      "symbol": "CheckinViewController.stopMonitoring(checkin:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/MapKitStuff.swift",
+      "line": 13,
+      "symbol": "CheckinViewController.addAnnotationAndRange(checkin:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/MapKitStuff.swift",
+      "line": 20,
+      "symbol": "CheckinViewController.clearAnnotationAndRange()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/MapKitStuff.swift",
+      "line": 31,
+      "symbol": "CheckinViewController.mapView(_:rendererFor:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/MapKitStuff.swift",
+      "line": 42,
+      "symbol": "CheckinViewController.mapView(_:viewFor:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Checkin/Extensions/MapKitStuff.swift",
+      "line": 62,
+      "symbol": "CheckinViewController.mapView(_:annotationView:calloutAccessoryControlTapped:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchTableViewCell.swift",
+      "line": 11,
+      "symbol": "MatchTableViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchTableViewCell.swift",
+      "line": 13,
+      "symbol": "MatchTableViewCell.nameLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchTableViewCell.swift",
+      "line": 14,
+      "symbol": "MatchTableViewCell.nearLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchTableViewCell.swift",
+      "line": 15,
+      "symbol": "MatchTableViewCell.whenLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchTableViewCell.swift",
+      "line": 16,
+      "symbol": "MatchTableViewCell.profileImage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchTableViewCell.swift",
+      "line": 18,
+      "symbol": "MatchTableViewCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchTableViewCell.swift",
+      "line": 25,
+      "symbol": "MatchTableViewCell.setSelected(_:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 11,
+      "symbol": "MatchViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 14,
+      "symbol": "MatchViewController.imgapi",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 15,
+      "symbol": "MatchViewController.api",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 16,
+      "symbol": "MatchViewController.matches",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 17,
+      "symbol": "MatchViewController.user",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 18,
+      "symbol": "MatchViewController.imageCache",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 20,
+      "symbol": "MatchViewController.matchTableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 22,
+      "symbol": "MatchViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 30,
+      "symbol": "MatchViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 68,
+      "symbol": "MatchViewController.tableView(_:viewForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 74,
+      "symbol": "MatchViewController.tableView(_:heightForHeaderInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 78,
+      "symbol": "MatchViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 91,
+      "symbol": "MatchViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 95,
+      "symbol": "MatchViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/New Group/MatchViewController.swift",
+      "line": 102,
+      "symbol": "MatchViewController.prepare(for:sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 12,
+      "symbol": "EditOccupationViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 13,
+      "symbol": "EditOccupationViewController.api",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 14,
+      "symbol": "EditOccupationViewController.apiUser",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 16,
+      "symbol": "EditOccupationViewController.occupations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 17,
+      "symbol": "EditOccupationViewController.filteredOccupations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 18,
+      "symbol": "EditOccupationViewController.searchController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 19,
+      "symbol": "EditOccupationViewController.selectedItems",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 21,
+      "symbol": "EditOccupationViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 50,
+      "symbol": "EditOccupationViewController.updateSearchResults(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 59,
+      "symbol": "EditOccupationViewController.isFiltering()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 63,
+      "symbol": "EditOccupationViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 81,
+      "symbol": "EditOccupationViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 88,
+      "symbol": "EditOccupationViewController.numberOfSections(in:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 93,
+      "symbol": "EditOccupationViewController.searchBarIsEmpty()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 98,
+      "symbol": "EditOccupationViewController.tableView(_:didSelectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 111,
+      "symbol": "EditOccupationViewController.tableView(_:didDeselectRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 123,
+      "symbol": "EditOccupationViewController.initializeSearchController()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 133,
+      "symbol": "EditOccupationViewController.getEditProfileVC()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditOccupationViewController.swift",
+      "line": 146,
+      "symbol": "EditOccupationViewController.doneTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 11,
+      "symbol": "EditProfileViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 12,
+      "symbol": "EditProfileViewController.api",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 13,
+      "symbol": "EditProfileViewController.apiImg",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 15,
+      "symbol": "EditProfileViewController.changeInterestBtn",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 16,
+      "symbol": "EditProfileViewController.aboutTxtView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 17,
+      "symbol": "EditProfileViewController.profilePictureImg",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 18,
+      "symbol": "EditProfileViewController.surnameTxtField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 19,
+      "symbol": "EditProfileViewController.nameTxtField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 20,
+      "symbol": "EditProfileViewController.occupations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 21,
+      "symbol": "EditProfileViewController.imagePicker",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 22,
+      "symbol": "EditProfileViewController.apiEdit",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 23,
+      "symbol": "EditProfileViewController.imageChanged",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 24,
+      "symbol": "EditProfileViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 52,
+      "symbol": "EditProfileViewController.cancelTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 55,
+      "symbol": "EditProfileViewController.doneTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 95,
+      "symbol": "EditProfileViewController.changeProfilePictureTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 100,
+      "symbol": "EditProfileViewController.changeInterestsTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/EditProfileViewController.swift",
+      "line": 103,
+      "symbol": "EditProfileViewController.imagePickerController(_:didFinishPickingMediaWithInfo:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/MatchedProfileViewController.swift",
+      "line": 11,
+      "symbol": "MatchedProfileViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/MatchedProfileViewController.swift",
+      "line": 12,
+      "symbol": "MatchedProfileViewController.interestTV",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/MatchedProfileViewController.swift",
+      "line": 13,
+      "symbol": "MatchedProfileViewController.nameTxtField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/MatchedProfileViewController.swift",
+      "line": 14,
+      "symbol": "MatchedProfileViewController.emailTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/MatchedProfileViewController.swift",
+      "line": 15,
+      "symbol": "MatchedProfileViewController.aboutTextField",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/MatchedProfileViewController.swift",
+      "line": 16,
+      "symbol": "MatchedProfileViewController.profileImg",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/MatchedProfileViewController.swift",
+      "line": 17,
+      "symbol": "MatchedProfileViewController.user",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/MatchedProfileViewController.swift",
+      "line": 18,
+      "symbol": "MatchedProfileViewController.apiImg",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/MatchedProfileViewController.swift",
+      "line": 19,
+      "symbol": "MatchedProfileViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/MatchedProfileViewController.swift",
+      "line": 40,
+      "symbol": "MatchedProfileViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/MatchedProfileViewController.swift",
+      "line": 44,
+      "symbol": "MatchedProfileViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 10,
+      "symbol": "UserProfileViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 12,
+      "symbol": "UserProfileViewController.aboutLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 13,
+      "symbol": "UserProfileViewController.emailLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 14,
+      "symbol": "UserProfileViewController.nameLbl",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 15,
+      "symbol": "UserProfileViewController.profileImg",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 16,
+      "symbol": "UserProfileViewController.interestTV",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 18,
+      "symbol": "UserProfileViewController.api",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 19,
+      "symbol": "UserProfileViewController.apiImg",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 20,
+      "symbol": "UserProfileViewController.deviceAPI",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 21,
+      "symbol": "UserProfileViewController.user",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 22,
+      "symbol": "UserProfileViewController.interested",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 23,
+      "symbol": "UserProfileViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 28,
+      "symbol": "UserProfileViewController.viewWillAppear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 58,
+      "symbol": "UserProfileViewController.tableView(_:numberOfRowsInSection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 63,
+      "symbol": "UserProfileViewController.tableView(_:cellForRowAt:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Linky/Controller/Profile/UserProfileViewController.swift",
+      "line": 71,
+      "symbol": "UserProfileViewController.logoutTapped(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 15,
+      "symbol": "Checkin.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 16,
+      "symbol": "Checkin.searchable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 17,
+      "symbol": "Checkin.isCurrent",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 18,
+      "symbol": "Checkin.range",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 19,
+      "symbol": "Checkin.loc",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 20,
+      "symbol": "Checkin.createdAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 21,
+      "symbol": "Checkin.near",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 23,
+      "symbol": "Checkin.init(json:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 61,
+      "symbol": "CheckinModel.coordinate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 62,
+      "symbol": "CheckinModel.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 63,
+      "symbol": "CheckinModel.searchable",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 64,
+      "symbol": "CheckinModel.isCurrent",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 65,
+      "symbol": "CheckinModel.range",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 66,
+      "symbol": "CheckinModel.createdAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 67,
+      "symbol": "CheckinModel.title",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 68,
+      "symbol": "CheckinModel.near",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Checkin.swift",
+      "line": 69,
+      "symbol": "CheckinModel.init(coordinate:id:searchable:isCurrent:range:createdAt:near:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Match.swift",
+      "line": 13,
+      "symbol": "Match.checkin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Match.swift",
+      "line": 14,
+      "symbol": "Match.user",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Match.swift",
+      "line": 15,
+      "symbol": "Match.createdAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Match.swift",
+      "line": 16,
+      "symbol": "Match.init(json:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Message.swift",
+      "line": 12,
+      "symbol": "Message.author",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Message.swift",
+      "line": 13,
+      "symbol": "Message.message",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Message.swift",
+      "line": 14,
+      "symbol": "Message._id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Message.swift",
+      "line": 15,
+      "symbol": "Message.createdAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Message.swift",
+      "line": 16,
+      "symbol": "Message.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Message.swift",
+      "line": 18,
+      "symbol": "Message.getDateOfMe()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Message.swift",
+      "line": 28,
+      "symbol": "NotifMessage.sender",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/Message.swift",
+      "line": 29,
+      "symbol": "NotifMessage.msg",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/ModelUtilities.swift",
+      "line": 15,
+      "symbol": "ErrorModel.error",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/ModelUtilities.swift",
+      "line": 17,
+      "symbol": "ErrorModel.init(json:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/ModelUtilities.swift",
+      "line": 27,
+      "symbol": "Occupation.occupations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/ModelUtilities.swift",
+      "line": 28,
+      "symbol": "Occupation.init(json:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/ModelUtilities.swift",
+      "line": 38,
+      "symbol": "TokenModel.token",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/ModelUtilities.swift",
+      "line": 39,
+      "symbol": "TokenModel.init(json:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/User.swift",
+      "line": 13,
+      "symbol": "User.id",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/User.swift",
+      "line": 14,
+      "symbol": "User.about",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/User.swift",
+      "line": 15,
+      "symbol": "User.createdAt",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/User.swift",
+      "line": 16,
+      "symbol": "User.interested",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/User.swift",
+      "line": 17,
+      "symbol": "User.email",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/User.swift",
+      "line": 18,
+      "symbol": "User.surname",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/User.swift",
+      "line": 19,
+      "symbol": "User.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/alicanyilmaz/Desktop/Linky/Model/User.swift",
+      "line": 20,
+      "symbol": "User.init(json:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/alicanyilmaz/Desktop/Linky"
+}
